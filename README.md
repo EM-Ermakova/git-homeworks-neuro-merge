@@ -1,6 +1,6 @@
 #log of task
 
-## link for [forked rep] (https://github.com/EM-Ermakova/git-homeworks-neuro-merge.git)
+##according to p.4 link for [new rep] (https://github.com/EM-Ermakova/neuro-merge-task3.git)
  
 Admin@WIN-MP25Z1BJ MINGW64 ~/Desktop/Курс СА/GitHub
 $ git clone git@github.com:EM-Ermakova/git-homeworks-neuro-merge.git
